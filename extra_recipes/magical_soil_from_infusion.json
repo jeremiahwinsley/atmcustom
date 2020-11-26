@@ -1,0 +1,34 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "botania:overgrowth_seed"
+  },
+  "ingredients": [{
+    "item": "botania:gaia_ingot"
+  },
+    {
+      "item": "mysticalagradditions:insanium_block"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "mysticalagradditions:insanium_block"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "mysticalagradditions:insanium_block"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "mysticalagradditions:insanium_block"
+    }
+  ],
+  "result": {
+    "item": "kubejs:magical_soil"
+  }
+}

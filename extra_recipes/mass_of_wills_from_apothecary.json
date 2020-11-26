@@ -1,0 +1,25 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "item": "kubejs:mass_of_wills"
+  },
+  "ingredients": [{
+    "item": "botania:ancient_will_ahrim"
+  },
+    {
+      "item": "botania:ancient_will_dharok"
+    },
+    {
+      "item": "botania:ancient_will_guthan"
+    },
+    {
+      "item": "botania:ancient_will_torag"
+    },
+    {
+      "item": "botania:ancient_will_verac"
+    },
+    {
+      "item": "botania:ancient_will_karil"
+    }
+  ]
+}

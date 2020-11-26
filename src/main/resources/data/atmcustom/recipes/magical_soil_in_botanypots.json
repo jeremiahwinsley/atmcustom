@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "kubejs:magical_soil"
+  },
+  "display": {
+    "block": "kubejs:magical_soil"
+  },
+  "categories": ["dirt", "farmland", "inferium", "prudentium", "tertium", "imperium", "supremium", "insanium", "magical"],
+  "growthModifier": 0.75
+}

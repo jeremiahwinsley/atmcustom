@@ -1,0 +1,18 @@
+{
+  "itemGroup.atmcustom": "All The Mods Customizations",
+
+  "item.kubejs.nether_star_block": "§eNether Star Block",
+  "block.kubejs.nether_star_block": "§eNether Star Block",
+
+  "item.kubejs.magical_soil": "§bMagical Soil",
+  "block.kubejs.magical_soil": "§bMagical Soil",
+
+  "item.kubejs.mass_of_wills": "§6Mass of Wills",
+  "tooltip.kubejs.mass_of_wills": "§8Combination of the six wills of the ancients",
+
+  "item.kubejs.rune_of_sins": "§6Rune of Sins",
+  "tooltip.kubejs.rune_of_sins": "§8Rune that contains the power of the seven sins",
+
+  "item.kubejs.rotten_leather": "Rotten Leather",
+  "item.kubejs.uu_matter": "§dUU-Matter"
+}

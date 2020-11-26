@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kubejs:rotten_leather"
+  },
+  "result": "minecraft:leather",
+  "experience": 0.5,
+  "cookingtime": 200
+}
